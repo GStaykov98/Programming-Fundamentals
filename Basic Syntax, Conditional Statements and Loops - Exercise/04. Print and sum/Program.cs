@@ -7,5 +7,5 @@ for (int i = start; i <= end; i++)
     Console.Write(i + " ");
     sum += i;
 }
-
+Console.WriteLine();
 Console.WriteLine($"Sum: {sum}");

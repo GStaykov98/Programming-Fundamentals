@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Equal Sum", "06. Equal 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Max Sequence of Equal Elements", "07. Max Sequence of Equal Elements\07. Max Sequence of Equal Elements.csproj", "{CE44AA02-13A3-4764-8ABE-C230AD4A62DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Magic Sum", "08. Magic Sum\08. Magic Sum.csproj", "{6C619118-2C4A-4FF5-9B36-074B640B40A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Kamino Factory", "09. Kamino Factory\09. Kamino Factory.csproj", "{62BFA64D-0D37-4A0F-AD49-1F6ED42D3C3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{CE44AA02-13A3-4764-8ABE-C230AD4A62DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE44AA02-13A3-4764-8ABE-C230AD4A62DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE44AA02-13A3-4764-8ABE-C230AD4A62DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C619118-2C4A-4FF5-9B36-074B640B40A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C619118-2C4A-4FF5-9B36-074B640B40A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C619118-2C4A-4FF5-9B36-074B640B40A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C619118-2C4A-4FF5-9B36-074B640B40A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BFA64D-0D37-4A0F-AD49-1F6ED42D3C3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BFA64D-0D37-4A0F-AD49-1F6ED42D3C3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BFA64D-0D37-4A0F-AD49-1F6ED42D3C3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BFA64D-0D37-4A0F-AD49-1F6ED42D3C3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

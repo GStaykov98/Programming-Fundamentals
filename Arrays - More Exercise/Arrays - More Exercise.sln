@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Pascal Triangle", "02. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Recursive Fibonacci", "03. Recursive Fibonacci\03. Recursive Fibonacci.csproj", "{93325E76-EB8C-4C03-8893-8ABA263530D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Fold and Sum", "04. Fold and Sum\04. Fold and Sum.csproj", "{91A69C1A-CDAA-48C2-A178-7477E824F3CB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{93325E76-EB8C-4C03-8893-8ABA263530D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93325E76-EB8C-4C03-8893-8ABA263530D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93325E76-EB8C-4C03-8893-8ABA263530D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A69C1A-CDAA-48C2-A178-7477E824F3CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A69C1A-CDAA-48C2-A178-7477E824F3CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A69C1A-CDAA-48C2-A178-7477E824F3CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A69C1A-CDAA-48C2-A178-7477E824F3CB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Center Point", "02. Cen
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Longer Line", "03. Longer Line\03. Longer Line.csproj", "{A0847082-8E90-4F39-B8EB-A7A9EC0CB769}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Tribonacci Sequence", "04. Tribonacci Sequence\04. Tribonacci Sequence.csproj", "{FC7EF187-7C4C-48F3-BCEE-9773992350A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Multiplication Sign", "05. Multiplication Sign\05. Multiplication Sign.csproj", "{70E20990-BC05-4F2D-8175-21BAC6CE2607}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{A0847082-8E90-4F39-B8EB-A7A9EC0CB769}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0847082-8E90-4F39-B8EB-A7A9EC0CB769}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0847082-8E90-4F39-B8EB-A7A9EC0CB769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC7EF187-7C4C-48F3-BCEE-9773992350A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC7EF187-7C4C-48F3-BCEE-9773992350A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC7EF187-7C4C-48F3-BCEE-9773992350A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC7EF187-7C4C-48F3-BCEE-9773992350A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70E20990-BC05-4F2D-8175-21BAC6CE2607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70E20990-BC05-4F2D-8175-21BAC6CE2607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70E20990-BC05-4F2D-8175-21BAC6CE2607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70E20990-BC05-4F2D-8175-21BAC6CE2607}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

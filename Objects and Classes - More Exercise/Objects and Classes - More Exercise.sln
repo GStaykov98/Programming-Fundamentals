@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Oldest Family Member", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Speed Racing", "03. Speed Racing\03. Speed Racing.csproj", "{E7C867FF-BAE1-494B-B0E6-86F0D543D7D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Raw Data", "04. Raw Data\04. Raw Data.csproj", "{E883C86B-222E-4186-862A-8FE30D4BD7BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Shopping Spree", "05. Shopping Spree\05. Shopping Spree.csproj", "{FA0CFE33-5C89-4BC5-BACD-6B564E8F5E56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{E7C867FF-BAE1-494B-B0E6-86F0D543D7D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7C867FF-BAE1-494B-B0E6-86F0D543D7D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7C867FF-BAE1-494B-B0E6-86F0D543D7D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E883C86B-222E-4186-862A-8FE30D4BD7BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E883C86B-222E-4186-862A-8FE30D4BD7BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E883C86B-222E-4186-862A-8FE30D4BD7BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E883C86B-222E-4186-862A-8FE30D4BD7BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA0CFE33-5C89-4BC5-BACD-6B564E8F5E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA0CFE33-5C89-4BC5-BACD-6B564E8F5E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA0CFE33-5C89-4BC5-BACD-6B564E8F5E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA0CFE33-5C89-4BC5-BACD-6B564E8F5E56}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
